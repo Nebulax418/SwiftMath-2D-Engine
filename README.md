@@ -7,6 +7,9 @@ area, length, width, height, or any other propertie of geometeric shapes will be
 to provide a visual representation of shapes and mathematical functions so that it can be useful for students and for academic purposes. By no means should this repository or 
 programs be cloned, redistributed, or published in any way without the authors(s) - Archisman Nath or Daniel Kaiyali consent or without proper permission/license.
 
+
+PLEASE NOTE THAT THE WORKING LAYOUT HAS CHANGED
+
 # Working Logo
 ![WORKING LOGO](https://user-images.githubusercontent.com/61641517/116800280-b06ec880-aacd-11eb-9587-06598ca9aa71.jpg)
 
