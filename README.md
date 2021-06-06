@@ -1,7 +1,9 @@
-# Aegean 2D Math Engine
+# SwiftMath 2D
 
 This application developed using the JAVA programming language is the first-ever collaboration between DANIEL KAIYALI  and ARCHISMAN NATH with the intention of developing a 
 mathematical application that shows the audience step-by-step how to solve their math problems. This application also has numerous geometric formulas and includes visual exhibits o how 2D shapes look and allows the user to interact with them by changing their color using a beautiful Color chooser. Included in the application - users can access numerous and useful functionality options ranging from area calculation all the way to finding what type of quadrilateral a 4 sided shape is. Some feautres of this application include pop up boxes, clear buttons, full fledge calculator, shape calculator, area, perimeter of circle, triangle, square, and rectangle. Also included are other useful calculating functionallities which are "what type of 4 sided shapes?", "What type triangle - icoceles, equilateral, scalene" and best of all a powerful custom mathematical library which will be released after its developement. Overall, this application aims to provide a visual representation of shapes and mathematical functions so that it can be useful for students and for academic purposes. By no means should this repository or programs be cloned, redistributed, or published in any way without the authors(s) - Archisman Nath or Daniel Kaiyali consent or without proper permission/license.
+
+-UPDATE ADDED THEMES SO THAT USER CANS SWITCH BETWEEN DIFFERENT THEMES IN OUR PROJECT
 
 - This application also includes live renditionning which blocks the user from entereing negative numbers or text into the fields.
 - Also includes a choosing unit button - which chooses the units for the user
