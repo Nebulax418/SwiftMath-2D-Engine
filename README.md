@@ -16,10 +16,6 @@ Our emails:
 Archiman Nath: archismannath380@gmail.com
 Daniel Kaiyali: 
 
-# Working Logo
-![WORKING LOGO](https://user-images.githubusercontent.com/61641517/116800280-b06ec880-aacd-11eb-9587-06598ca9aa71.jpg)
-
-
 # Working Layout - WORK IN PROGRESS - STILL DEVELOPING THE UI 
 ![WORKING LAYOUT - WORK IN PROGRESS](https://user-images.githubusercontent.com/61641517/120564572-39349900-c3d9-11eb-9624-3b4291f1aba8.PNG)
 
